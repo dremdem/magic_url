@@ -1,0 +1,5 @@
+Flask==1.0.2
+Jinja2==2.10
+MarkupSafe==1.0
+short-url==1.2.2
+Werkzeug==0.14.1
